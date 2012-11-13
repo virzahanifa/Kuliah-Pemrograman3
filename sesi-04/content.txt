@@ -1,0 +1,14 @@
+SENIN
+* 08.50-10.30
+	Etika Profesi
+
+* 13.00-15.30
+	RPL
+	
+
+SELASA
+* 08.50-11.20
+	Keamanan Jaringan
+
+* 12.10-15.10
+	Prakt.Pemrog 3
